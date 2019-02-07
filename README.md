@@ -12,6 +12,8 @@ in the constructor of the GridGui class (see comments for more info).
 
 ## Installation
 
+Requires Java 8
+
 To compile and run:
 
 Checkout as a java project from github using your favourite IDE and and then compile and run GridGui.java
