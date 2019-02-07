@@ -12,12 +12,9 @@ in the constructor of the GridGui class (see comments for more info).
 
 ## Installation
 
-Compile and run GridGUI.java
+To compile and run:
 
-```bash
-javac GridGUI.java
-java GridGUI
-```
+Checkout as a java project from github using your favourite IDE and and then compile and run GridGui.java
 
 ## License
 [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html)
